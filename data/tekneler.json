@@ -1,0 +1,318 @@
+[
+  {
+    "kod": "PYK-001",
+    "slug": "azure-majesty",
+    "ad": "Özel Yapım 24m Motoryat",
+    "aciklama": "İstanbul Boğazı'nın büyüleyici manzarasında lüks ve konforlu bir deneyim sunan 24 metre motoryat.",
+    "tip": "Motoryat",
+    "lokasyon": "Bebek, İstanbul",
+    "gorsel": "https://images.unsplash.com/photo-1674606867042-2aa3581c1bb5?auto=format&fit=crop&w=1200&q=85",
+    "gorseller": [
+      "https://images.unsplash.com/photo-1674606867042-2aa3581c1bb5?auto=format&fit=crop&w=1200&q=85",
+      "https://images.unsplash.com/photo-1699309207660-d6aa251d21ac?auto=format&fit=crop&w=1200&q=85",
+      "https://images.unsplash.com/photo-1732596449073-b559640c2a0f?auto=format&fit=crop&w=1200&q=85"
+    ],
+    "ozellikler": {
+      "kapasite": 25,
+      "seyirKapasitesi": 25,
+      "uzunluk": "24 m",
+      "murettebat": 4,
+      "kabin": 3,
+      "kaptanli": true
+    },
+    "fiyat": { "saatlik": 7000, "gunluk": 35400, "konaklamali": 85000 },
+    "puan": 4.99,
+    "degerlendirmeSayisi": 63,
+    "anindaRezerve": true,
+    "rozet": "Premium Deneyim",
+    "donanim": ["Flybridge", "Klima", "Wifi", "Ses Sistemi", "WC"]
+  },
+  {
+    "kod": "PYK-002",
+    "slug": "golden-horizon",
+    "ad": "Özel Yapım 15m Motoryat",
+    "aciklama": "Boğaz turu için ideal, şık ve konforlu 15 metre motoryat.",
+    "tip": "Motoryat",
+    "lokasyon": "Eminönü, İstanbul",
+    "gorsel": "https://images.unsplash.com/photo-1605281317010-fe5ffe798166?auto=format&fit=crop&w=1200&q=85",
+    "gorseller": [
+      "https://images.unsplash.com/photo-1605281317010-fe5ffe798166?auto=format&fit=crop&w=1200&q=85",
+      "https://images.unsplash.com/photo-1562281302-809108fd533c?auto=format&fit=crop&w=1200&q=85"
+    ],
+    "ozellikler": {
+      "kapasite": 12,
+      "seyirKapasitesi": 12,
+      "uzunluk": "15 m",
+      "murettebat": 2,
+      "kaptanli": true
+    },
+    "fiyat": { "saatlik": 3738, "gunluk": 17559, "konaklamali": 42000 },
+    "puan": 4.99,
+    "degerlendirmeSayisi": 103,
+    "anindaRezerve": true,
+    "rozet": "En Çok Sevilen",
+    "donanim": ["Bluetooth Ses Sistemi", "Güneşlenme Güvertesi", "WC"]
+  },
+  {
+    "kod": "PYK-003",
+    "slug": "aegean-pearl",
+    "ad": "Özel Yapım 17m Motoryat",
+    "aciklama": "Arnavutköy kalkışlı, Boğaz'ın incisi lüks motoryat.",
+    "tip": "Motoryat",
+    "lokasyon": "Arnavutköy, İstanbul",
+    "gorsel": "https://images.unsplash.com/photo-1528154291023-a6525fabe5b4?auto=format&fit=crop&w=1200&q=85",
+    "gorseller": [
+      "https://images.unsplash.com/photo-1528154291023-a6525fabe5b4?auto=format&fit=crop&w=1200&q=85",
+      "https://images.unsplash.com/photo-1699311401054-f22f33f5b9ae?auto=format&fit=crop&w=1200&q=85"
+    ],
+    "ozellikler": {
+      "kapasite": 10,
+      "seyirKapasitesi": 10,
+      "uzunluk": "17 m",
+      "murettebat": 2,
+      "kaptanli": true
+    },
+    "fiyat": { "saatlik": 4000, "gunluk": 28910, "konaklamali": 55000 },
+    "puan": 4.99,
+    "degerlendirmeSayisi": 133,
+    "anindaRezerve": true,
+    "donanim": ["Klima", "Mutfak", "Yüzme Merdiveni", "WC"]
+  },
+  {
+    "kod": "PYK-004",
+    "slug": "bosphorus-elite",
+    "ad": "Özel Yapım 14m Motoryat",
+    "aciklama": "Karaköy kalkışlı, romantik boğaz turları için mükemmel seçenek.",
+    "tip": "Motoryat",
+    "lokasyon": "Karaköy, İstanbul",
+    "gorsel": "https://images.unsplash.com/photo-1614350391736-ed8619d63c06?auto=format&fit=crop&w=1200&q=85",
+    "gorseller": [
+      "https://images.unsplash.com/photo-1614350391736-ed8619d63c06?auto=format&fit=crop&w=1200&q=85",
+      "https://images.unsplash.com/photo-1552160757-52790c6f4faf?auto=format&fit=crop&w=1200&q=85"
+    ],
+    "ozellikler": {
+      "kapasite": 12,
+      "seyirKapasitesi": 12,
+      "uzunluk": "14 m",
+      "murettebat": 2,
+      "kaptanli": true
+    },
+    "fiyat": { "saatlik": 4275, "gunluk": 23600, "konaklamali": 48000 },
+    "puan": 4.98,
+    "degerlendirmeSayisi": 194,
+    "anindaRezerve": true,
+    "donanim": ["Ses Sistemi", "Buzdolabı", "WC"]
+  },
+  {
+    "kod": "PYK-005",
+    "slug": "bodrum-gulet",
+    "ad": "Bodrum'da 17 Metre Gulet",
+    "aciklama": "Bodrum koylarında mavi yolculuk için ideal geleneksel gulet.",
+    "tip": "Gulet",
+    "lokasyon": "Bodrum",
+    "gorsel": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=1200&q=85",
+    "gorseller": [
+      "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=1200&q=85",
+      "https://images.unsplash.com/photo-1616207133639-cd5e4db9859f?auto=format&fit=crop&w=1200&q=85"
+    ],
+    "ozellikler": {
+      "kapasite": 8,
+      "seyirKapasitesi": 8,
+      "uzunluk": "17 m",
+      "murettebat": 3,
+      "kabin": 4,
+      "kaptanli": true
+    },
+    "fiyat": { "saatlik": 5500, "gunluk": 37501, "konaklamali": 95000 },
+    "puan": 4.97,
+    "degerlendirmeSayisi": 41,
+    "anindaRezerve": false,
+    "rozet": "Kaçırılmayacak Fiyat",
+    "donanim": ["Mutfak", "Güneşlenme Güvertesi", "Yüzme Turları"]
+  },
+  {
+    "kod": "PYK-006",
+    "slug": "gocek-motor",
+    "ad": "Göcek'te 2 Kabinli Motoryat",
+    "aciklama": "Göcek'in eşsiz koylarında ekonomik ve konforlu tekne tatili.",
+    "tip": "Motoryat",
+    "lokasyon": "Göcek",
+    "gorsel": "https://images.unsplash.com/photo-1569263979104-865ab7cd8d13?auto=format&fit=crop&w=1200&q=85",
+    "gorseller": [
+      "https://images.unsplash.com/photo-1569263979104-865ab7cd8d13?auto=format&fit=crop&w=1200&q=85",
+      "https://images.unsplash.com/photo-1567899378494-47b22a2ae96a?auto=format&fit=crop&w=1200&q=85"
+    ],
+    "ozellikler": {
+      "kapasite": 8,
+      "seyirKapasitesi": 8,
+      "uzunluk": "13 m",
+      "murettebat": 2,
+      "kabin": 2,
+      "kaptanli": true
+    },
+    "fiyat": { "saatlik": 3200, "gunluk": 37836, "konaklamali": 72000 },
+    "puan": 4.96,
+    "degerlendirmeSayisi": 28,
+    "anindaRezerve": true,
+    "donanim": ["Klima", "Mutfak", "WC"]
+  },
+  {
+    "kod": "PYK-007",
+    "slug": "bodrum-katamaran",
+    "ad": "Bodrum'da Lüks Katamaran",
+    "aciklama": "Geniş güverte alanı ve stabil seyir sunan lüks katamaran.",
+    "tip": "Katamaran",
+    "lokasyon": "Bodrum",
+    "gorsel": "https://images.unsplash.com/photo-1523496922380-91d5afba98a3?auto=format&fit=crop&w=1200&q=85",
+    "gorseller": [
+      "https://images.unsplash.com/photo-1523496922380-91d5afba98a3?auto=format&fit=crop&w=1200&q=85",
+      "https://images.unsplash.com/photo-1535024966840-e7424dc2635b?auto=format&fit=crop&w=1200&q=85"
+    ],
+    "ozellikler": {
+      "kapasite": 6,
+      "seyirKapasitesi": 6,
+      "uzunluk": "12 m",
+      "murettebat": 2,
+      "kabin": 3,
+      "kaptanli": true
+    },
+    "fiyat": { "saatlik": 4800, "gunluk": 73465, "konaklamali": 120000 },
+    "puan": 4.95,
+    "degerlendirmeSayisi": 19,
+    "anindaRezerve": true,
+    "rozet": "Kaçırılmayacak Fiyat",
+    "donanim": ["Flybridge", "Wifi", "Mutfak"]
+  },
+  {
+    "kod": "PYK-008",
+    "slug": "fethiye-gulet",
+    "ad": "Fethiye ve Göcek Koyları Gulet",
+    "aciklama": "Fethiye ve Göcek koylarını birlikte keşfedebileceğiniz mavi tur teknesi.",
+    "tip": "Gulet",
+    "lokasyon": "Fethiye",
+    "gorsel": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?auto=format&fit=crop&w=1200&q=85",
+    "gorseller": [
+      "https://images.unsplash.com/photo-1559827260-dc66d52bef19?auto=format&fit=crop&w=1200&q=85",
+      "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=1200&q=85"
+    ],
+    "ozellikler": {
+      "kapasite": 8,
+      "seyirKapasitesi": 8,
+      "uzunluk": "18 m",
+      "murettebat": 3,
+      "kabin": 3,
+      "kaptanli": true
+    },
+    "fiyat": { "saatlik": 4200, "gunluk": 37501, "konaklamali": 88000 },
+    "puan": 4.94,
+    "degerlendirmeSayisi": 35,
+    "anindaRezerve": false,
+    "donanim": ["Mutfak", "Güneşlenme Güvertesi", "Yüzme Merdiveni"]
+  },
+  {
+    "kod": "PYK-009",
+    "slug": "cesme-princess",
+    "ad": "Çeşme'de Princess Motoryat",
+    "aciklama": "Ege'nin turkuaz sularında lüks ve hızlı motoryat deneyimi.",
+    "tip": "Motoryat",
+    "lokasyon": "Çeşme",
+    "gorsel": "https://images.unsplash.com/photo-1562281302-809108fd533c?auto=format&fit=crop&w=1200&q=85",
+    "gorseller": [
+      "https://images.unsplash.com/photo-1562281302-809108fd533c?auto=format&fit=crop&w=1200&q=85",
+      "https://images.unsplash.com/photo-1559385301-0187cb6eff46?auto=format&fit=crop&w=1200&q=85"
+    ],
+    "ozellikler": {
+      "kapasite": 10,
+      "seyirKapasitesi": 10,
+      "uzunluk": "16 m",
+      "murettebat": 2,
+      "kabin": 2,
+      "kaptanli": true
+    },
+    "fiyat": { "saatlik": 5200, "gunluk": 44143, "konaklamali": 98000 },
+    "puan": 4.96,
+    "degerlendirmeSayisi": 52,
+    "anindaRezerve": true,
+    "rozet": "En Çok Sevilen",
+    "donanim": ["Klima", "Ses Sistemi", "Flybridge"]
+  },
+  {
+    "kod": "PYK-010",
+    "slug": "davet-gemisi",
+    "ad": "Özel Yapım 24m Davet Gemisi",
+    "aciklama": "Düğün, nişan ve kurumsal etkinlikler için geniş kapasiteli davet gemisi.",
+    "tip": "Davet Gemisi",
+    "lokasyon": "Bebek, İstanbul",
+    "gorsel": "https://images.unsplash.com/photo-1678122878190-b8a567929f6d?auto=format&fit=crop&w=1200&q=85",
+    "gorseller": [
+      "https://images.unsplash.com/photo-1678122878190-b8a567929f6d?auto=format&fit=crop&w=1200&q=85",
+      "https://images.unsplash.com/photo-1674606867042-2aa3581c1bb5?auto=format&fit=crop&w=1200&q=85",
+      "https://images.unsplash.com/photo-1732596449073-b559640c2a0f?auto=format&fit=crop&w=1200&q=85"
+    ],
+    "ozellikler": {
+      "kapasite": 80,
+      "seyirKapasitesi": 90,
+      "uzunluk": "24 m",
+      "murettebat": 6,
+      "kaptanli": true
+    },
+    "fiyat": { "saatlik": 24000, "gunluk": 120000, "konaklamali": 250000 },
+    "puan": 4.92,
+    "degerlendirmeSayisi": 12,
+    "anindaRezerve": true,
+    "donanim": ["Ses Sistemi", "Işık Sistemleri", "Mutfak", "WC"]
+  },
+  {
+    "kod": "PYK-011",
+    "slug": "marmaris-sport",
+    "ad": "Marmaris 14m Spor Motoryat",
+    "aciklama": "Marmaris koylarında hız ve konforu bir arada sunan spor motoryat.",
+    "tip": "Motoryat",
+    "lokasyon": "Marmaris",
+    "gorsel": "https://images.unsplash.com/photo-1559385301-0187cb6eff46?auto=format&fit=crop&w=1200&q=85",
+    "gorseller": [
+      "https://images.unsplash.com/photo-1559385301-0187cb6eff46?auto=format&fit=crop&w=1200&q=85",
+      "https://images.unsplash.com/photo-1614350391736-ed8619d63c06?auto=format&fit=crop&w=1200&q=85"
+    ],
+    "ozellikler": {
+      "kapasite": 6,
+      "seyirKapasitesi": 6,
+      "uzunluk": "14 m",
+      "murettebat": 2,
+      "kabin": 2,
+      "kaptanli": true
+    },
+    "fiyat": { "saatlik": 4500, "gunluk": 41300, "konaklamali": 78000 },
+    "puan": 4.93,
+    "degerlendirmeSayisi": 24,
+    "anindaRezerve": false,
+    "donanim": ["Ses Sistemi", "Yüzme Merdiveni"]
+  },
+  {
+    "kod": "PYK-012",
+    "slug": "gocek-gulet",
+    "ad": "Göcek'te Mavi Tur Teknesi",
+    "aciklama": "Göcek koylarında huzurlu ve keyifli mavi tur için ideal gulet.",
+    "tip": "Gulet",
+    "lokasyon": "Göcek",
+    "gorsel": "https://images.unsplash.com/photo-1616207133639-cd5e4db9859f?auto=format&fit=crop&w=1200&q=85",
+    "gorseller": [
+      "https://images.unsplash.com/photo-1616207133639-cd5e4db9859f?auto=format&fit=crop&w=1200&q=85",
+      "https://images.unsplash.com/photo-1559827260-dc66d52bef19?auto=format&fit=crop&w=1200&q=85"
+    ],
+    "ozellikler": {
+      "kapasite": 6,
+      "seyirKapasitesi": 6,
+      "uzunluk": "16 m",
+      "murettebat": 3,
+      "kabin": 3,
+      "kaptanli": true
+    },
+    "fiyat": { "saatlik": 3800, "gunluk": 50448, "konaklamali": 105000 },
+    "puan": 4.91,
+    "degerlendirmeSayisi": 17,
+    "anindaRezerve": true,
+    "rozet": "Kaçırılmayacak Fiyat",
+    "donanim": ["Mutfak", "Güneşlenme Güvertesi", "Yüzme Turları"]
+  }
+]
