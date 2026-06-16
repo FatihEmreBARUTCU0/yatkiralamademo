@@ -175,7 +175,7 @@ export default async function TekneDetayPage({ params }: Props) {
             </div>
 
             <a
-              href={`https://wa.me/905551234567?text=${encodeURIComponent(
+              href={`https://wa.me/905000000000?text=${encodeURIComponent(
                 `Merhaba, ${tekne.kod} (${tekne.ad}) için rezervasyon yapmak istiyorum.`
               )}`}
               target="_blank"

@@ -1,4 +1,4 @@
-const WHATSAPP_NUMBER = "905551234567";
+const WHATSAPP_NUMBER = "905000000000";
 const WHATSAPP_MESSAGE = encodeURIComponent(
   "Merhaba, Premium Yat Kiralama hakkında bilgi almak istiyorum."
 );
